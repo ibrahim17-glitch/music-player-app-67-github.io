@@ -10,8 +10,8 @@ println(displayWidth, displayHeight);
 int appWidth = displayWidth;
 int appHeight = displayHeight;
 //
-int paperWidth = 160; //MrM's Numbers
-int paperHeight = 100;
+int paperWidth = 204; //MrM's Numbers
+int paperHeight = 193;
 //
 // Students to use numbers from their chart to create ratios
 // Ratios are multiplied by pixel count
